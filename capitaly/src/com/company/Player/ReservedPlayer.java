@@ -1,6 +1,8 @@
-package com.company;
+package com.company.Player;
 
-public class ReservedPlayer extends Player{
+import com.company.Tile.PropertyTile;
+
+public class ReservedPlayer extends Player {
     private int halfOfRoundBal;
 
     public ReservedPlayer(String name){

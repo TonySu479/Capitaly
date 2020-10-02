@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Tile;
 
 public class LuckTile implements Tile {
     private int prize;

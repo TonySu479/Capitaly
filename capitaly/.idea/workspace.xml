@@ -70,44 +70,32 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="767" y="351" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601559319594" />
-    <state width="1877" height="346" key="GridCell.Tab.0.bottom" timestamp="1601563718193">
+    <state width="1877" height="291" key="GridCell.Tab.0.bottom" timestamp="1601582729637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601563718193" />
-    <state width="1877" height="346" key="GridCell.Tab.0.center" timestamp="1601563718193">
+    <state width="1877" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601582729637" />
+    <state width="1877" height="291" key="GridCell.Tab.0.center" timestamp="1601582729636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601563718193" />
-    <state width="1877" height="346" key="GridCell.Tab.0.left" timestamp="1601563718193">
+    <state width="1877" height="291" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601582729636" />
+    <state width="1877" height="291" key="GridCell.Tab.0.left" timestamp="1601582729636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601563718192" />
-    <state width="1877" height="346" key="GridCell.Tab.0.right" timestamp="1601563718245">
+    <state width="1877" height="291" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601582729636" />
+    <state width="1877" height="346" key="GridCell.Tab.0.right" timestamp="1601649637881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601563718245" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1601546472400">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="346" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601649637881" />
+    <state x="2576" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1601642168729">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601546472400" />
+    <state x="2576" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601642168729" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601228394232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601228394232" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/company/Board.java</url>
-          <line>52</line>
-          <properties class="com.company.Board" method="simulateGame">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="players.get(0)" language="JAVA" />

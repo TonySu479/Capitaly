@@ -1,5 +1,10 @@
 package com.company;
 
+import com.company.Player.GreedyPlayer;
+import com.company.Player.Player;
+import com.company.Player.ReservedPlayer;
+import com.company.Player.TacticalPlayer;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

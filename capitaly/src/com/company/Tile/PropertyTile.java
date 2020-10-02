@@ -1,4 +1,6 @@
-package com.company;
+package com.company.Tile;
+
+import com.company.Player.Player;
 
 public class PropertyTile implements Tile{
     private int plotCost = 1000;

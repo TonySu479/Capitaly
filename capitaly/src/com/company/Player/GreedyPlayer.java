@@ -1,6 +1,8 @@
-package com.company;
+package com.company.Player;
 
-public class GreedyPlayer extends Player{
+import com.company.Tile.PropertyTile;
+
+public class GreedyPlayer extends Player {
     public GreedyPlayer(String name){
         super(name);
     }

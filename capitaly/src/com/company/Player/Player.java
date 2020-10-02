@@ -1,4 +1,9 @@
-package com.company;
+package com.company.Player;
+
+import com.company.Tile.LuckTile;
+import com.company.Tile.PropertyTile;
+import com.company.Tile.ServiceTile;
+import com.company.Tile.Tile;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -122,6 +127,5 @@ public abstract class Player {
     public ArrayList<Integer> getOwnedPlotTiles() {
         return ownedPlotTiles;
     }
-
-
+    
 }

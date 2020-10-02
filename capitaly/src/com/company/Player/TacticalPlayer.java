@@ -1,6 +1,8 @@
-package com.company;
+package com.company.Player;
 
-public class TacticalPlayer extends Player{
+import com.company.Tile.PropertyTile;
+
+public class TacticalPlayer extends Player {
     private boolean hasPurchasedLast = false;
 
     public TacticalPlayer(String name){

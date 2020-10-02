@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Tile;
 
 public class ServiceTile implements Tile {
     private int serviceCost;
